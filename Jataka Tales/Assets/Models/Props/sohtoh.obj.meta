@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 9783a2fd45cf5a34bb8eda40250e7aa5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: base
+    100002: fukuhatsu
+    100004: hohju
+    100006: jiku
+    100008: kurin
+    100010: //RootNode
+    100012: suien
+    100014: tohshin
+    100016: ukehana
+    100018: ukehana2
+    400000: base
+    400002: fukuhatsu
+    400004: hohju
+    400006: jiku
+    400008: kurin
+    400010: //RootNode
+    400012: suien
+    400014: tohshin
+    400016: ukehana
+    400018: ukehana2
+    2300000: base
+    2300002: fukuhatsu
+    2300004: hohju
+    2300006: jiku
+    2300008: kurin
+    2300010: suien
+    2300012: tohshin
+    2300014: ukehana
+    2300016: ukehana2
+    3300000: base
+    3300002: fukuhatsu
+    3300004: hohju
+    3300006: jiku
+    3300008: kurin
+    3300010: suien
+    3300012: tohshin
+    3300014: ukehana
+    3300016: ukehana2
+    4300000: base
+    4300002: fukuhatsu
+    4300004: hohju
+    4300006: jiku
+    4300008: kurin
+    4300010: suien
+    4300012: tohshin
+    4300014: ukehana
+    4300016: ukehana2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
